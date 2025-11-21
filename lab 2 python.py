@@ -1,8 +1,7 @@
-#2025/11/11 Daniel Di Traglia 000882895
 import random
 
 # Print name and student number
-print("Name: Daniel Di Traglia | Student Number: 000882895")
+print("Name: redacted | Student Number: redacted")
 
 def play_game():
     #'secret_number' value generated randomly to be guessed by user
