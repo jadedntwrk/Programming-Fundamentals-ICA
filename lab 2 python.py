@@ -9,7 +9,7 @@ def play_game():
     secret_number = random.randint(1, 100)
     attempts = 0
 
-    print("\nI'm thinking of a number between 1 and 1000.")
+    print("\nI'm thinking of a number between 1 and 10000.")
 
     while True:
         #Test to pass; 1,2,12,24,50... valid numbers between 1-100
